@@ -1,0 +1,4 @@
+#!/bin/bash
+# first run `make venv`
+umask 0002
+source ~/.virtualenvs/soxm/bin/activate

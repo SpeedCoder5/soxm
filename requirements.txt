@@ -1,0 +1,38 @@
+aiohttp
+# build
+# einops
+gspread
+# google-api-python-client
+# google-cloud
+matplotlib==3.8.2
+notebook
+numpy
+oauth2client
+openai
+pandas
+plotly
+praw
+# pylint
+# pytest
+# pytest-cov
+seaborn
+scipy
+scikit-learn
+# tensorboard
+# torch - see requirements-torch.txt
+tqdm
+tiktoken
+# twine
+umap-learn
+# xarray
+# local package
+#-e .
+
+# external requirements - see setup.py
+# python-dotenv>=0.5.1
+# click
+# Sphinx
+# coverage
+# awscli
+# flake8
+# setuptools~=41.2.0

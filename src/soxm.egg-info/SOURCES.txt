@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/soxm/Paths.py
+src/soxm/__init__.py
+src/soxm.egg-info/PKG-INFO
+src/soxm.egg-info/SOURCES.txt
+src/soxm.egg-info/dependency_links.txt
+src/soxm.egg-info/requires.txt
+src/soxm.egg-info/top_level.txt
+test/test_version.py
