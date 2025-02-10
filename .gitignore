@@ -98,3 +98,7 @@ __pycache__/
 *.pyc
 
 .virtualenvs/
+
+
+# exclude downloads by default
+downloads/
