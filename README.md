@@ -17,6 +17,7 @@ Social Exploit Matrix with LLMs
 | requirements.txt       <- venv requirements
 | setup.cfg              <- module package config
 | setup.py               <- runtime requirements
+| setup.sh               <- prerequisites such as selnium drivers
 | test_environment.py    <- verify venv works, run `source activate` first
 | tox.ini                <- tox file with settings for running tox; see tox.testrun.org
 ├── data               <- symlink to ../../data
@@ -42,7 +43,17 @@ Social Exploit Matrix with LLMs
 └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 ```
 
+## Install prerequistes
+
+Install prerequisites.
+
+```{bash}
+sudo ./setup.sh
+```
+
 ## Python virtual environment (venv) commands
+
+Make sure to install prerequisites first.
 
 Create the venv
 

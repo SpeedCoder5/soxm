@@ -1,4 +1,5 @@
 aiohttp
+beautifulsoup4
 # build
 # einops
 gspread
@@ -16,6 +17,7 @@ praw
 # pytest
 # pytest-cov
 seaborn
+selenium
 scipy
 scikit-learn
 # tensorboard
